@@ -1,7 +1,12 @@
+header {
+
+}
+
 header.container{
   display: inline-flex;
-  font-family: Veranda;
-  scroll: 
+  font-family: Verdana;
+  font-size: 14px
+  font-weight: bold;
 }
 
 .navbar{
