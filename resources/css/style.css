@@ -1,0 +1,10 @@
+header{
+  display: flex;
+}
+
+.bar{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  color: RGB(0, 238, 167);
+}
