@@ -3,19 +3,22 @@ header {
 }
 
 header.container{
+  width: auto;
   display: inline-flex;
   font-family: Verdana;
-  font-size: 14px
+  font-size: 14px;
   font-weight: bold;
 }
-
+header.headlink{
+  align-items: left;
+}
 .navbar{
 
 
 }
 
 .bar{
-  font-weight: bold;
+
   font-size: 18px;
   color: RGB(0, 238, 167);
 }
