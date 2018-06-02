@@ -1,18 +1,22 @@
-header {
 
-}
-
-header.container{
-  width: auto;
+header.container {
   display: inline-flex;
+  width: auto;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
 }
-header.headlink{
-  align-items: left;
+nav.container{
+  display: inline-flex;
+  justify-content: flex-end;
 }
-.navbar{
+span.navbar{
+  color: MediumAquamarine;
+}
+.headlink {
+
+}
+.navbar {
 
 
 }
