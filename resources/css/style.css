@@ -5,13 +5,14 @@
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  align-items: flex-end;
   padding-bottom: 25px;
   border-bottom: 1px solid black;
 }
 
 nav.container{
-  display: inline-flex;
-  justify-content: flex-end;
+
+
 }
 span.navbar{
   color: MediumAquamarine;
