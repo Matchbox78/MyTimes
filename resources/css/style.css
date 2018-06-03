@@ -1,6 +1,7 @@
 
-header.container {
-  display: inline-flex;
+.flex-container {
+  display: flex;
+  width: auto;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
@@ -14,17 +15,4 @@ nav.container{
 }
 span.navbar{
   color: MediumAquamarine;
-}
-.headlink {
-
-}
-.navbar {
-
-
-}
-
-.bar{
-
-  font-size: 18px;
-  color: RGB(0, 238, 167);
 }
