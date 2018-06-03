@@ -1,11 +1,13 @@
 
 header.container {
   display: inline-flex;
-  width: auto;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  padding-bottom: 25px;
+  border-bottom: 1px solid black;
 }
+
 nav.container{
   display: inline-flex;
   justify-content: flex-end;
